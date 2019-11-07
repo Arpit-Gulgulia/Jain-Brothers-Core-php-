@@ -1,0 +1,323 @@
+/*REMOVE DEFAULT MARGIN AND PADDING*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*FREE DELIVERY DIV*/
+.top_header{
+	text-align: center;
+	letter-spacing: 1px;
+	color: #fff;
+	padding: 1%;
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: 100;
+	background-color: rgb(16,26,49);
+}
+/*NAVBAR-BRAND*/
+.navbar-brand{
+	font-family: "Gill Sans Medium";
+	letter-spacing: 5px;
+}
+/*NAVBAR-LINKS*/
+#header li a{
+	font-family: "baskerville old face";
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+@media only screen and (min-width: 1030px) {
+	.navbar-collapse .navbar-nav li { /*To make search,wishlist,profile and cart Icons responsive*/
+		margin-left: 1rem; /*1rem=16px=(mx=3)*/
+		margin-right: 1rem;
+	}
+}
+/*Private Policy*/
+#privacyPolicy h1,h2,h3,h4,h5{
+	font-family: "baskerville old face";
+	color: red; 
+	letter-spacing: 0.08rem;
+}
+#privacyPolicy h1{
+	font-size: 2rem;
+	margin-bottom: 5%;
+}
+#privacyPolicy h5{
+	font-size: .8rem;
+	margin-bottom: 1rem;
+}
+#privacyPolicy p,li {
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+#privacyPolicy li{
+	margin-left:7%;
+}
+
+#privacyPolicy li a:hover{
+	text-decoration: none;
+}
+
+#privacyPolicy .col-lg-9 div {
+	margin-bottom: 8%;
+}
+
+
+/*Contact us page styling*/
+#contactUs h1,h2,h3,h4,h5{
+	font-family: "baskerville old face";
+	color: red; 
+	letter-spacing: 0.08rem;
+}
+#contactUs h1{
+	font-size: 2rem;
+	margin-bottom: 5%;
+}
+#contactUs h5{
+	font-size: .8rem;
+	margin-bottom: 1rem;
+}
+#contactUs p,li {
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+#contactUs li{
+	margin-left:7%;
+}
+
+#contactUs li a:hover{
+	text-decoration: none;
+}
+
+#contactUs .col-lg-9 div {
+	margin-bottom: 8%;
+}
+
+#contactUs p {
+	margin-bottom: 3%;
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	letter-spacing: 0.1rem;
+	font-size: .9rem;
+}
+#contactUs h6 {
+    font-family: "baskerville old face";
+    font-size: .9rem;
+}
+#contactUs {
+   /*margin-right: 1%;*/
+}
+
+
+/*Size Guide*/
+#SizeGuide h1,h2,h3,h4,h5{
+	font-family: "baskerville old face";
+	color: red; 
+	letter-spacing: 0.08rem;
+}
+#SizeGuide h1{
+	font-size: 2rem;
+	margin-bottom: 5%;
+}
+#SizeGuide h5{
+	color: #000;
+	font-size: 1rem;
+	line-height: 1.3rem;
+	margin-bottom: 1rem;
+}
+#SizeGuide p,li {
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+#SizeGuide li{
+	margin-left:7%;
+}
+
+#SizeGuide li a:hover{
+	text-decoration: none;
+}
+
+#SizeGuide .col-lg-9 div {
+	margin-bottom: 8%;
+}
+
+#SizeGuide .womenSizeGuide,.menSizeGuide {
+	margin-right: 3%;
+	display: inline-block;
+	width: 30%;
+	text-align: center;
+	height: 10rem;
+	padding-top: 2rem;
+}
+#SizeGuide .active {
+    background-color: rgb(16,26,49);
+    color: #fff;
+}
+#SizeGuide .active h5 {
+	color: #fff;
+}
+#SizeGuide table th{
+	width: 10%;
+	background-color: rgb(16,26,49);
+	color: #fff;
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+#SizeGuide table td {
+	width: 30%;
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+
+/*Delivery Page*/
+ 
+#delivery h1,h2,h3,h4,h5{
+	font-family: "baskerville old face";
+	color: red; 
+	letter-spacing: 0.08rem;
+}
+#delivery h1{
+	font-size: 2rem;
+	margin-bottom: 5%;
+}
+#delivery h5{
+	font-size: .8rem;
+	margin-bottom: 1rem;
+}
+#delivery p,li {
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+#delivery li{
+	margin-left:7%;
+}
+
+#delivery li a:hover{
+	text-decoration: none;
+}
+#delivery table th {
+	font-family: "baskerville old face";
+	letter-spacing: 0.1rem;
+	font-size: .7rem;
+}
+#delivery table td {
+	font-family: "Gill Sans Light";
+	letter-spacing: 0.1rem;
+	font-size: .8rem
+}
+
+/*Ethical Trading*/
+
+#ethicalTrading .jumbotron {
+  background-image: url('open.jpg');
+	width: 100%;
+	background-size: cover;
+	height: 500px;
+	background-size: 100% 100%;
+}
+
+#ethicalTrading .contentEthicalTrading h1,h2,h3,h4,h5{
+	font-family: "baskerville old face";
+	color: red; 
+	letter-spacing: 0.08rem;
+}
+#ethicalTrading p {
+	font-family: "Gill Sans Light";
+	line-height: 24px;
+	font-size: .9rem;
+	letter-spacing: 0.1rem;
+}
+/*ARTICLES SECTION*/
+#articles{
+	background-color: rgb(16,26,49);
+	margin-top: 4%; 
+	padding: 2%;
+}
+#articles h6{
+	color:#fff;
+	font-family: "baskerville old face";
+	font-size: 12px;
+}
+
+#articles p{
+   color: #fff;
+   font-size: 14px;
+   font-family: "Gill Sans Light";
+}
+
+#articles .nav-item a{
+   color: #fff;
+   font-size: 14px;
+   font-family: "Gill Sans Light";
+}
+
+::placeholder{
+text-align: center;
+font-size: 14px;
+font-family: "Gill Sans Light"; 
+
+}
+
+#articles .btn{
+    
+    color: #fff;
+    font-family: "Gill Sans Medium";
+	border-radius: 0px;
+	padding: 10px 40px;
+	background-color: rgb(16,26,49);
+	margin-top: 7px;
+}
+
+#articles .men{
+	margin-left: 4px;
+	padding: 10px 50px;
+}
+@media only screen and (max-width: 991px){
+	#articles div h6{
+		margin-top: 12%;
+	}
+}
+
+/*FOOTER SECTION*/
+#copyright {
+	float: left;
+	margin-top: 10px;
+}
+#socialMedia {
+	float: right;
+}
+
+#socialMedia span {
+margin-top: 10px;
+}
+
+#socialMedia .nav-link {
+  color: rgb(16,26,49);
+}
+
+#socialMedia .nav-link .fa-instagram:hover{
+  color:  pink;
+}
+
+#socialMedia .nav-link .fa-twitter:hover{
+  color: #0077B5;	
+}
+
+#socialMedia .nav-link .fa-facebook-f:hover{
+  color: blue;
+}
+#socialMedia .nav-link .fa-youtube:hover{
+  color: red;	
+}

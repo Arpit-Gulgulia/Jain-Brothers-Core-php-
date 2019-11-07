@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <meta charset="utf-8">
+
+  
+  <title>Cookie Policy| SnehaEnterprises</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+  <link rel="icon" type="image/png" href="S, Character, Alphabet, Letter.png">
+  
+  <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets.css">
+   
+    <!-- Bootstrap Scripts -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!-- GOOGLE FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
+    
+    
+
+    <style type="text/css">
+
+      @font-face {
+        font-family: "Gill Sans Medium";
+            src: url("font/Gill Sans Medium.otf") format("opentype");
+            }
+
+        @font-face {
+        font-family: "Gill Sans Light";
+            src: url("font/Gill Sans Light.otf") format("opentype");
+      }
+
+        @font-face {
+        font-family: "baskerville old face";
+            src: url("font/BASKVILL.ttf") format("truetype");
+        }
+    </style>
+
+
+</head>
+
+
+<body>
+    
+<main id="privacyPolicy">
+       <div class="container wrapper-main">
+           <div class="container-fluid content my-5">
+              <div class="row">
+                  <div class="col-lg-3 border-right">
+                      <h1>Help & Support</h1>
+                      <ul style="list-style-type: none;padding-left: 0" class="pt-3">
+                         <li class="py-3"><a href="contactUs.php" class="text-dark">Contact Us</a></li>
+                         <li class="py-3"><a href="delivery.php" class="text-dark">Delivery</a></li>
+                         <li class="py-3"><a href="returns.php" class="text-dark">Return</a></li>
+                         <!-- <li class="py-3"><a href="#" class="text-dark">FAQ</a></li> -->
+                         <li class="py-3"><a href="cookiePolicy.php" class="text-dark">Cookie Policy</a></li>
+                         <li class="py-3"><a href="privacyPolicy.php" class="text-dark">Privacy Policy</a></li>
+                         <li class="py-3"><a href="SizeGuide.php" class="text-dark">Size Guide</a></li>
+                         <!-- <li class="py-3"><a href="#" class="text-dark">Student Discount</a></li> -->
+                         <li class="py-3"><a href="termsOfwebsiteUse.php" class="text-dark">Terms of Website use</a></li>
+                        
+                      </ul>
+                      <hr>
+                      <i class="fas fa-phone fa-rotate-90"> </i>&nbsp +91&nbsp9462257115
+                      <hr>
+                      <i class="fas fa-envelope"> &nbsp arpit.btech.ec16@gmail.com</i>
+                      <hr>
+                  </div> <!-- End of Help and support col div -->
+                  <div class="col-lg-9" style="padding-left: 10%;padding-right: 2%">
+                     
+                      <h1>Cookie Policy</h1>
+                        <div>
+                           <p>The Jain Brothers website uses cookies to distinguish you from other users of our website. This helps us to provide you with the best possible experience when you browse our website and also allows us to improve our site by identifying possible errors and generic browsing behaviours. All cookies collected by our site are anonymous and will not be used to personally identify you. By continuing to browse the site, you are agreeing to our use of cookies.</p>
+                        </div>
+
+                    
+                        <div>
+                            <p>A cookie is a small text file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer"s hard drive and that text file is then sent back to the server each time you visit the website with the aim to prepare and optimise the page for you based on your previous activity. For more information about cookies you can visit www.allaboutcookies.org/manage-cookies. We use the following cookies:</p>
+                            <ul>
+                            <li>Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.</li>
+                            <li>Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.</li>
+                            <li>Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region) and so allow us to customise our site and to provide you with offers that are targeted at your individual interests.</li>
+                            <li>Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for the purpose to advertise to you on other sites, these partners will use the cookies as set out in this policy and at all times this data shall remain fully anonymous and specific to your browsing device. Using cookies for this purpose limits the number of times you see an advertisement as well as helping us measure the effectiveness of any advertising campaign.</li>
+                            </ul> 
+                        </div>
+
+                        <div>
+                           <p>We also work with Google Analytics, which uses cookies to help us analyse how customers use the site and for interest-based advertising (including remarketing) as set out in the "Targeting cookies" description above. We use Google analytics to broadly analyse customer preferences on topics such as colour, product category, size, promotions, search terms and checkout methods, to review "hot" and "cold" areas of the site, to assess age and gender demographics and to support stock availability and store location enquiries. The information generated by the cookie(s) during your use of the website (including your IP address) is directly transmitted to and stored by Google. Google then uses this information to review and evaluate your use of the website, providing us with reports and other services relating to website activity and internet usage.</p>
+                        </div>
+
+                        <div>
+                          <p>You can opt-out of making your site activity available to Google Analytics by installing the Google Analytics opt-out browser add-on. This add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) which is running on Jack Wills" and other websites from sharing information with Google Analytics about your visit activity. The add-on is available here http://tools.google.com/dlpage/gaoptout?hl=en or if you have a Google account you can also amend your settings at https://adssettings.google.com.</p>
+                          
+                        </div>
+
+                        <div>
+                          <p>Social Media and Search Engine Advertising – we use targeting cookies to provide you with relevant advertising about our products and services on Google, Facebook or Instagram. Any such adverts will always be clearly marked as ‘sponsored’ or ‘AdChoices’. Please note that it is not possible to opt out of all advertising on Facebook, Instagram and Google as these platforms rely on advertising to keep their services free. Should you choose to opt out of targeted advertising as set out above, most websites and social media will provide you with random advertising which may not be relevant to you. It may still be possible that on occasion you will receive advertising from Jack Wills based on the interests in your profile or demographic information.</p>
+                        </div>
+
+                        <div>
+                           <p>Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.</p>
+                        </div>
+                        
+                        <div>
+                          <p>You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.</p>
+                        </div>
+
+                        <div>
+                          <p>If you have any further questions about this policy, please contact privacy@jainBrothers.com.</p>
+                        </div>
+
+                        <div>
+                          <p>The Cookie Policy was last updated in June 2019.</p>
+                            
+
+                        
+                  </div><!-- End of privacy policy col div -->
+              </div> <!-- End of row -->
+           </div> <!-- End of content div -->
+       </div> <!-- End of wrapper-main -->
+   </main>
+
+ <section id="articles">
+                 
+                 <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-4" style="border-right: 1px solid #fff">
+                            <ul class="nav flex-column" style="text-align: center;">
+                                <h6>A T &nbsp; Y O U R &nbsp; S E R V I C E</h6>
+                                <li class="nav-item">
+                                     <a class="nav-link" href="delivery.php">Delivery & Returns</a>
+                                </li>
+                                <li class="nav-item">
+                                     <a class="nav-link" href="contactUs.php">Contact Us</a>
+                                </li>
+                                 <li class="nav-item">
+                                     <a class="nav-link" href="privacyPolicy.php">Privacy & Terms</a>
+                                </li>
+                            </ul>
+                            
+  
+                        </div>
+                        <div class="col-lg-4" style="text-align: center;border-right: 1px solid #fff">
+                            <h6>J O I N &nbsp; T H E &nbsp; W O R L D &nbsp; O F &nbsp; J A I N  &nbsp;B R O T H E R S</h6>
+                            <br>
+                               <p style="letter-spacing: 0.07rem;">Get 5% off when you sign up - be the first to get the latest style stories and exclusive offers.</p>
+
+                               <div class="container" style="letter-spacing: 0.05rem">
+                    
+                                   <a href="LoginSystem/signup.php" class="btn btn-outline-light women">Signup</a>
+                                   <a href="LoginSystem/login.php" class="btn btn-outline-light men">Login</a>
+    
+                               </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <ul class="nav flex-column" style="text-align: center;">
+                                <h6>J A I N  &nbsp;B R O T H E R S</h6>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="workWithUs.php">Work With Us</a>
+                                </li>
+                                <li class="nav-item">
+                                     <a class="nav-link" href="ethicalTrading.php">Ethical Trading</a>
+                                </li>
+                                <li class="nav-item">
+                                     <a class="nav-link" href="Corporate-Social-Responsibility.php">Corporate Social Responsibility</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                 </div>
+
+        </section>
+        
+                
+    <footer>
+            <div id="footer" class="container-fluid bg-light" >
+                      <div id="copyright">
+                        <i class="far fa-copyright">JAIN BROTHERS</i>
+                      </div>
+                        
+                      
+                <div id="socialMedia" >
+                                    
+                            <ul class="nav justify-content-end">
+                              <span >FOLLOW US: </span>
+                                    <li class="nav-item">
+                                       <a class="nav-link" href="https://www.instagram.com/accounts/login/"><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a class="nav-link" href="https://twitter.com/login?lang=en"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a class="nav-link" href="https://touch.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="nav-item">
+                                       <a class="nav-link" href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                    </li>
+                                    </ul> 
+                </div>
+
+            </div>
+            
+   </footer>
+
+
+
+            <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+         </script>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+         </script>
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+         </script>
+
+
+</body>
+
+
+</html>
